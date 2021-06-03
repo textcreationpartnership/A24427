@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new prognostication for the year of our blessed Lord 1677 Being the first after leap-year. Containing the moveable feasts: the eclipses the four quarters of the year: the changes of the moon, with the disposition of the weather. The dismal dayes. And the whole known fairs of Scotland. With other observations. Serving most fitly for the most part of the Kingdom of Scotland, but more especially for our city of Glasgow, where the pole is elevated 55. deg. 55. min. At Aberdene, by an expert mathematician.</title>
+         </titleStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24427</idno><idno type="EEBO-CITATION">99825742</idno>
+  <idno type="VID">30129</idno>
+  <idno type="EEBO-PROQUEST">2240876707</idno>
+  
+            <idno type="STC">Wing A1984F</idno>
+            <idno type="STC">ESTC R213319</idno>
+            <idno type="PROQUEST">99825742</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825742e"/>
+            <note>(EEBO-TCP ; phase 2, no. A24427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30129)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1803:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new prognostication for the year of our blessed Lord 1677 Being the first after leap-year. Containing the moveable feasts: the eclipses the four quarters of the year: the changes of the moon, with the disposition of the weather. The dismal dayes. And the whole known fairs of Scotland. With other observations. Serving most fitly for the most part of the Kingdom of Scotland, but more especially for our city of Glasgow, where the pole is elevated 55. deg. 55. min. At Aberdene, by an expert mathematician.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Sanders, printer to the ci[ty and] University, and are to be sold in his shop,</publisher>
+                  <pubPlace>Glasgow :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+               <term type="topical_term">Ephemerides --  Early works to 1800.</term>
+               <term type="topical_term">Almanacs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30129:1"/>
+            <p>A NEW PROGNOSTIC<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>TION FOR THE YEAR O<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> OUR BLESSED LORD 1677.</p>
+            <p>Being the first after Leap-year.</p>
+            <p>Containing the moveable Feasts: the Eclipses▪ the four Quarter<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the year: the Changes of the Moon, with the disposition of the weather. The dismal dayes. And the whole known Fair<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of <hi>Scotland.</hi> With other observations.</p>
+            <p>
+               <hi>Serving most fitly for the most part of the Kingdom of Scotland, b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> more especially for our City of</hi> GLASGOW, <hi>where the Pole is elevated</hi> 55. <hi>deg.</hi> 55. <hi>min.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et-Abe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dene, by an expert Mathematician.</p>
+            <figure>
+               <figDesc>diagram of the sky with cardinal directions and phases of the moon</figDesc>
+            </figure>
+            <p>GLASGOW, By <hi>Robert Sanders,</hi> Printer to the C<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> University, and are to be sold in his Shop, 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:30129:2"/>
+            <p>Since
+<list>
+                  <item>The Creation of the World — 5626</item>
+                  <item>The general Deludge — 3990</item>
+                  <item>Feigns the first King of Scotland — 1006</item>
+                  <item>The building of Solomons Temple — 2694</item>
+                  <item>Rome was built by Romulus — 2529</item>
+                  <item>The Scots entred Albion — 2095</item>
+                  <item>The building of Edinburgh Castle — 2007</item>
+                  <item>The last destruction of Jerusalem by Vespasian 1608</item>
+                  <item>The Christian Faith was received in Scotland 1467</item>
+                  <item>The building of the high Church of Glasgow 479</item>
+                  <item>The first invention of Guns — 297</item>
+                  <item>The inventiō of Printing in Europe, before in China 237</item>
+                  <item>The Colledge of Glasgow was built — 222</item>
+                  <item>The appearing of the new star in Cassiopeia 105</item>
+                  <item>The Gun-powder Treason, November 5. 72</item>
+                  <item>The birth of King CHARLES the second 47</item>
+                  <item>The Duke Hamiltons engagement — 29</item>
+                  <item>The great fire in Glasgow — 25</item>
+                  <item>The last great Plague in London — 25</item>
+                  <item>The great fire in London — 19</item>
+                  <item>The fall of an arch of the bridge of Glasgow, July 7. 1678, 6</item>
+               </list>
+            </p>
+         </div>
+         <div type="part">
+            <head>Common Notes and moveable Feasts this year <hi>1677.</hi>
+            </head>
+            <p>
+               <hi>We shall have</hi>
+               <list>
+                  <item>Fastens-even, which in <hi>England</hi> is called Shrove-tuesd. Feb. 27</item>
+                  <item>Ash Wednsday on the Morn.</item>
+                  <item>Pasch, or Easter — April 15</item>
+                  <item>Whitsunday — June 3</item>
+                  <item>Golden Number — 6</item>
+                  <item>Dominical Letter — G</item>
+                  <item>The Epact — 6</item>
+               </list>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ween Candlemas and Fastens-even, are</hi> 25, <hi>days inclus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:30129:2"/>
+            <head>The Eclipses of this year, <hi>1677.</hi>
+            </head>
+            <p>THere will be three Eclipses this years The fu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Moon, May the 7. day, 25. min. past 3. in the <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the beginning will be at 42. minutes past 1. in the morning. T<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> middle at 25. minutes past 3. The end at 8. min. past 5. So th<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the whole duration will be 3. hours, 26. min. Digies Eclipsed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and 15. min. So shall the beginning and middle of this Eclipse<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> seen by us.</p>
+            <p>The second will be of the Sun, May the 21. day, 34. minut<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> past 10. morning.</p>
+            <p>The third will be of the Sun, November the 14. day, 5. min. past 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. at night. These two last of the Sun will not be seen by us, fed Austrasibus.</p>
+         </div>
+         <div type="part">
+            <head>A full Description of the four Quarters of the year <hi>1677.</hi>
+            </head>
+            <p>THe Spring begins on Friday the 9. of March 40. min. past 9. afternoon, the Sun entring Aries.</p>
+            <p>Summer quarter begins on Sunday the 10. of June, 28. min. past midnight, the Sun entring Cancer.</p>
+            <p>Harvest quarter begins on Wednesday, the 12. day of Septem<g ref="char:EOLhyphen"/>ber. 53. min. past 3. afternoon, the Sun entring Libra.</p>
+            <p>Winter quarter begins on Tursday the 11. day of December, 40 min. past 3. afternoon, the Sun entring Capticorn.</p>
+         </div>
+         <div type="part">
+            <head>The changes of the Moon, with the exact rising and setting of the Sun, and disposition of the Weather, for this year 1677.</head>
+            <div type="month">
+               <head>Xxxi. January begins on Munday.</head>
+               <p>
+                  <hi>Sun riseth</hi> 17. <hi>min. before</hi> 9 <hi>sets</hi> 27 <hi>min past</hi> 3.</p>
+               <list>
+                  <item>First quarter on Munday 1. day, 4. in, past 2. morning.</item>
+                  <item>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Moon on Monday 8. day, 16. m. past 11. at night.</item>
+                  <item>Second quarter on Tuesday 16. day, 39. min. past 2 afternoon</item>
+                  <pb facs="tcp:30129:3"/>
+                  <item>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>unsday 23. day, 30. m. past 5. morning.</item>
+                  <item>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> qu<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>er on Tuesday 30. day, 1. min. past 3. afternoon.</item>
+               </list>
+               <p>
+                  <hi>The New Year begins with frost the first <hi>5.</hi> dayes, and to the <hi>12.</hi> turbulent winds, with snow; thence to the <hi>16.</hi> weather for the season: from the <hi>16.</hi> to <hi>22.23.24.</hi> frost: thence to the <hi>28.</hi> sleety, and to the end of the moneth frost.</hi>
+               </p>
+               <p>This moneth set all kind of fruit trees, and quicksets. In the new of the Moon (the wind and whether observed) you may set pease and beans, patsnips, and oats, if the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eather proof mild, and the Moon decreasing.</p>
+               <q>
+                  <l>If thou be sick, and help wouldst have,</l>
+                  <l>The counsel of the Learned crave.</l>
+                  <l>If thou hast health, to keep thee so.</l>
+                  <l>Fly idleness as deadly foe.</l>
+               </q>
+               <p>
+                  <hi>The first Fair in the year is S. Naughlans, at the Kirk of Be<g ref="char:EOLhyphen"/>thelny, in Gerry, upon the 7. day. S. Mungo in Glasgow the 13. day a fair: and at Dunkel and Kilwinning the 12. day.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>Xxviij. February begins on Thursday.</head>
+               <p>
+                  <hi>Sun riseth</hi> 30. <hi>min. before</hi> 8. <hi>sets</hi> 30. <hi>min. past</hi> 4.</p>
+               <list>
+                  <item>Full Moon on Thursday 8. day, 17. m. past 2. morning.</item>
+                  <item>Second quarter on Wednesday 14. day, 11. m. past 11. at night,</item>
+                  <item>Change on Wednesday 21. day, 27. m. past 5. afternoon.</item>
+               </list>
+               <p>
+                  <hi>The</hi> 1.2.3. <hi>and</hi> 4. <hi>dayes fair weather, but cold, from thence to the</hi> 10. <hi>very good weather for Ducks and geese: from the</hi> 10. <hi>to the</hi> 16. <hi>frost: the</hi> 16.17. <hi>and</hi> 18. <hi>rain: the</hi> 20.21. <hi>hard winds: the rest of the moneth temperate.</hi>
+               </p>
+               <p>This moneth set totes, with all other kind of plants, cut quick<g ref="char:EOLhyphen"/>sets, sow pease and onions; as in the moneth before, the weather considered, you may now garden for sallet herbs, and such like.</p>
+               <q>
+                  <l>Be choice of food in any wise,</l>
+                  <l>To keep thee warm also precise:</l>
+                  <l>Beware like wise thou let not blood,</l>
+                  <l>Except the Learned think it good.</l>
+               </q>
+               <p>
+                  <hi>The first at Abernethy and Forrec in Murrayland, cal. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> S. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ides day, On Candlemase day in Bamff, Dunkth Ding<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>al, Dowglas, the 2. day. Valentine day in Linsithgow
+<pb facs="tcp:30129:3"/>the 14. day, and Forfar the 15. holding eight days. Ashwed<g ref="char:EOLhyphen"/>nesday fair begins on Fasten-even, at Lanerk the same day, Vally-field the 24. day.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>Xxxj. March begins on Thursday.</head>
+               <p>
+                  <hi>Sun riseth</hi> 38. <hi>min. before</hi> 7. <hi>sets</hi> 38. <hi>min. after</hi> 5.</p>
+               <p>First quarter on Thursday 1. day, 50. m. past 9. morning.</p>
+               <p>Full Moon on Friday 9. day, 8. m. past 7. morning.</p>
+               <p>Change on Friday 23. day, 5. m. past 2. morning.</p>
+               <p>First quarter on Saturday 31. day, 59. m. past 5. morning.</p>
+               <p>
+                  <hi>This moneth begins roughly the first five dayes, the</hi> 6, 7 <hi>and</hi> 8. <hi>more sober: thence to the</hi> 12. <hi>cold showrs, the</hi> 13, 14. <hi>raw frost: and to the</hi> 19. <hi>high winds: thence to the</hi> 25. <hi>kindly weather, to the</hi> 28. <hi>flying showrs, the the rest pleasant.</hi>
+               </p>
+               <p>This moneth in the new of the Moon, grast, set quicksets and vines, cut your hedges and vines already growing: as also you may sow onions, beans and oats, and all manner of garden feed.</p>
+               <q>
+                  <l>Now bleed and bathe, if thou desire,</l>
+                  <l>And purge also, if need require.</l>
+                  <l>Ill humors do in many breed:</l>
+                  <l>Provide in time before you need.</l>
+               </q>
+               <p>
+                  <hi>S. Monence in Aberdene, Dumfermling, Abercherder and S. Marnoch Kirk the first day, at Pertenween the</hi> 3. <hi>S. Duihes in Tane of Rosi the</hi> 9. <hi>in Auchertuel and Innerness the</hi> 10 <hi>S. Causnan the</hi> 12. <hi>day: S. Patrick in Dumbart an, and at the Kirk of Strageeth and at Kirkadie a fair of horse, neat &amp; sheep, &amp;c. the</hi> 16. <hi>day; in S. Johnston the</hi> 19. <hi>Cuthbert in Langron of the Mers the</hi> 20 <hi>day: Lady-day in Westweems, Bamff, Authtermucht<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the</hi> 25. <hi>Midlentron fair at Banchrie, on thursday before Midlentron sunday; Palmsunday at the Kir<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of Forrig, and in S. Johnston; and Sh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>thursday fair upon thursday before Good-friday at Cewper of Angus, oth<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> wise Morks Cowper a fair in Forres, called S. Markt f<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> first tuesday after Easter yearly.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:30129:4"/>
+               <head>Xxx. April begins on Sunday.</head>
+               <p>
+                  <hi>Sun riseth 53. min. before 6. sets 53. min. past 6.</hi>
+               </p>
+               <list>
+                  <item>Pull Moon on Saturday 7. day, 38. m. past 6. afternoon.</item>
+                  <item>Second quarter on Saturday 14. day, 30 m. past 10. morning.</item>
+                  <item>Change on Saturday 21. day, 53 m. past 7 afternoon.</item>
+                  <item>First quarter on Sunday 29. day, 10 m. past 12. at night.</item>
+               </list>
+               <p>
+                  <hi>This moneth begins with sharp cold weather, from thence to the 11. more temperate: the 12.13. strong hard winds: thence to the 19. calm and clear: from the 20, to the 26. dry and windy, with some rain towards the close of the moneth.</hi>
+               </p>
+               <p>In this moneth pole your hops, sow barley and artichoaks, bark trees for Tanners, sow hemp and flax, set citrons, melons, and cucumbers, and furnish and replenish your gardens with Summer herbs.</p>
+               <q>
+                  <l>Now wholesom baths thou mayst frequent,</l>
+                  <l>Let blood also, and not repent:</l>
+                  <l>These are good means thee to defend,</l>
+                  <l>From griefs the which on thee attend.</l>
+               </q>
+               <p>
+                  <hi>S. Oles fair at the Kirk of Cruden the first tuesday? at Les<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie on tuesday before Easter; in Corstorphine the first tuesday after Easter a fair. S. Donald fair at the Kirk of Auchterless the <hi>17.</hi> in Old Aberdene on Skirethursday. S. Mark Evangelist in Dysert the <hi>23.</hi> Beltan day the first the <hi>26.</hi> a fair at Rugland the <hi>28.</hi> continuing four days: at Leven the <hi>29</hi> day, and in Kilreni the <hi>30.</hi> day, at Borrowsiounness the first Tuesday after Pasch.</hi>
+               </p>
+               <p>Whiles in March, and whiles in April.</p>
+               <p>
+                  <hi>Skire thursday before Pasch in Old-Aberdene, Glasgow, Dumbartan, Cowper of Angue, Elgin of Murray. Paschs munday in Cowper of Eise Lanerk and Irwing, Low-sunday after Pasch in Killimure, and all the week after at the Seazie f S. Andrews.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>Xxxj. May begins on Tuesday.</head>
+               <p>
+                  <hi>Sun riseth 56. min. before 5. sets 56. min. past 7.</hi>
+               </p>
+               <list>
+                  <item>Moon on Munday 7. day, 25 in. past 3 morning.</item>
+                  <item>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd quarter on Sunday 13. day, 20 m. past 5 afternoon.</item>
+                  <pb facs="tcp:30129:4"/>
+                  <item>Change on munday 21. day, 34 m. past 10 morning.</item>
+                  <item>First quarter on tuesday 29. day, 9 m. past 1. afternoon.</item>
+               </list>
+               <p>
+                  <hi>Good weather to the 8.9. day, 12.13. some<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> rain: thence to the 16, 17. reasonable weather: the to the 22, 23, great winds, the end of this moneth summer weather.</hi>
+               </p>
+               <p>In the beginning of this moneth you may sow the seed of t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mer herbs, which could not endure the cold of the fore<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> moneths. You may sow your hemp and flax, weed your<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> gardens, and take away superfluous branches, and moss you gardens.</p>
+               <q>
+                  <l>Rise early now this month of May,</l>
+                  <l>And walk the fields that be so gay:</l>
+                  <l>From surfeiting see thou refrain,</l>
+                  <l>Or soon it will procure thy pain.</l>
+               </q>
+               <p>
+                  <hi>The first day, called S. Philip a fair in the Grange with<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Sheriffdom of Linlithgow. Also a fair at New Chur<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of Kilpatrick free of custome for seven years. Holy Cross day th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> second Beltan in Monross, Kinrocher: Rude fair in Ellen, &amp; in Peebles the <hi>3.</hi> at Ranfrew of horse, neat, sheep, custom fr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> for <hi>3.</hi> years the <hi>9.</hi> day: at Carlouk the <hi>10.</hi> at Bamff, and at Kir<g ref="char:EOLhyphen"/>k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>die a fair of neat and sheep, &amp;c. the <hi>16.</hi> da<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; in L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stie<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> thursday before Whitsunday: Sterling fair ten days before Whitsunday: in Stonehive upon tuesday before Whitsunday with a weekly mercat every thursday.</hi>
+               </p>
+               <p>Whiles in May, and whiles in June▪</p>
+               <p>
+                  <hi>Whitsunmunday in Glasgow, Dumbartan, L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nerk and Je<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>burgh. Whitsuntuesday, called Pardonday, in the Chartrie o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Ross, Peterhead, and at the Kirk of Ninians above Kirkadi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and Barrowstownness. Trinity munday in Edinburgh and B<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>chin eight days; in S. Andrews one day, in Burntiland one day. A fair in the Burgh of Linlithgow the first thursday after Whitsunday. Trinity tuesday in Rugland lasting two dayes, Tri<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>y thursday in Falkland.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>Xxx. June begins on Friday.</head>
+               <p>
+                  <hi>Sun riseth <hi>44.</hi> min. before <hi>4.</hi> sets <hi>44.</hi> min. past <hi>8.</hi>
+                  </hi>
+               </p>
+               <list>
+                  <item>Bull Moon on Tuesday 5. day, 45 m. past 10 morning.</item>
+                  <item>Last quarter on Tuesday 12. day, 11 m. past 2 morning.</item>
+                  <pb facs="tcp:30129:5"/>
+                  <item>Change on Wednesday 20. day, 15 m. pas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1 morning.</item>
+                  <item>F<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>st quarter on Thursday 28. day, 18 m. past 1 morning.</item>
+               </list>
+               <p>
+                  <hi>Hot and dry to the 14. day: thence to the n<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>so <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>mer <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>howers, thence to the 19. very hot dry o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ther: thence the 24.25. some thunder and lig<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ning and all the rest of the moneth fair and pleasant sum<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> weather.</hi>
+               </p>
+               <p>In this moneth at the full of Moon; gather herbs to keep dry the whole year. Weed your corn fields and gardens<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> set, rosem and gilly-flowers: sow lettice, shear sheep, the Moon increasin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </p>
+               <q>
+                  <l>Drink new or sweet, caste not at all,</l>
+                  <l>For thereby grows no danger small:</l>
+                  <l>And to thy self such pastime take,</l>
+                  <l>As may in God thee merry make.</l>
+               </q>
+               <p>
+                  <hi>A fair in Kinross the first tuesday of June. Bernard f<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> second tuesday: in Stramiglio, Aberdour and Ennerkei<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ng the <hi>6.</hi> A weekly mercat in Forfar, beginning the <hi>8.</hi> of Ju<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of neat, sheep, horse, &amp;c. continuing till the first of Octob. fair in Forgondeny the <hi>10.</hi> S. Barnabie in Lawder and Dyse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Dowglas, S. Laurence in Grinock the <hi>11.</hi> day. S. Marga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. Abernethy: Ceres in Fise the <hi>13.</hi> Midsummer on S. Jo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y in S. Joh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ston five dayes, in Air four dayes; in Wig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Bamff and Athelston the <hi>14.</hi> in Auchtertueil &amp; Chiskina<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and Bocklyvie in the Parish of Kippon the <hi>15.</hi> Saint. M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>gares in Dumsermling, and at Mossat the <hi>18.</hi> day <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n which place there is a weekly mercat every friday. Ear<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>slon the <hi>19.</hi> Methil the <hi>22.</hi> day. Midsummer day in Hawi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in the South, hard by the river of Teviot, for horse, sheep, ox<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at, &amp;c. on the <hi>24.</hi> day, together with a weekly mere<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay always upon the thursday. Also in Forres, Townyetum<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the border the <hi>24.</hi> day, of horse, neat and sheep, &amp;c, the <hi>24.</hi> wil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a weekly mercat. In Alathy in Angus, called S. Emagolath <hi>25.</hi> S. Peters day at Forfar the <hi>26.</hi> holding four dayes. A<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> also in Falkland, Burntiland, Bamff, and Kelso the <hi>26.</hi> Gallas<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iels the <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>9.</hi> In Peeble<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>9.</hi> S. Seriss fair the last tuesday of this moneth. S John Baprist day a fair in Frazerburgh the <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>4.</hi> day. There is also a fair called S. Margarets fair on the thir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:30129:5"/>tuesday of this mon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th upon the Mains of Keith-hall, someti<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>legde<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed Caskiben, continuing the whole week, and to be custom <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> for two years.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>Xxxi. July begins on Sunday.</head>
+               <p>
+                  <hi>Sun riseth <hi>37.</hi> min before <hi>4.</hi> sets <hi>37.</hi> min. past <hi>8.</hi>
+                  </hi>
+               </p>
+               <list>
+                  <item>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ull Moon on wednesday 4. day, 30 m. past 5 afternoon.</item>
+                  <item>First quarter on wednesday 11. day, 40 m. past 1 afternoon,</item>
+                  <item>Change on thursday 19. day, 35 m. past 3 afternoon.</item>
+                  <item>First quarter on friday 27. day, 56 m. past 10 morning.</item>
+               </list>
+               <p>
+                  <hi>From the first to the 8. small showers: from thence <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o the 10 some pleasant weather, the 11, 12. and 13, 14. <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>igh winds with rains the 22.23. fair and hot weather, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he end rain.</hi>
+               </p>
+               <p>In this moneth play your haying, follow your land for wheat, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull up hemp that is ripe, get rue and wormwood to drive away <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leas and moths: dry flowers in the shade, and then sun them a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ittle for fear of corruption.</p>
+               <q>
+                  <l>Perfume thy house with savors sweet,</l>
+                  <l>But such as are for purpose meet▪</l>
+                  <l>Abroad as thou in streets dost go.</l>
+                  <l>Defend thy self from stinks also.</l>
+               </q>
+               <p>
+                  <hi>Culross the first day, Abernethy and Auchtermuchty the <hi>1.</hi> day. S. Martin of Bulzeon <hi>4.</hi> day. Peter fair in Peterhead. The first Tuesday in Dundie a new fair. S. Thomas in Langnewton, midway betwixt Jedburgh and Melros: the <hi>3.</hi> day; S. Palladius in Forden of the Merns the <hi>6.</hi> S. An<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ew in Glasgow the <hi>7.</hi> S. Lawrence at Grinock the <hi>1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>▪</hi> day. Kilwinning the <hi>12.</hi> day. S. Margaret in Frendraught, and Asky fair in Old Deer, both on the <hi>2.</hi> tuesday. A fair a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Borrowstonness the second wednesday. S. Margaret in Kills<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure the <hi>13.</hi> six days at the Kirk of Forrig; in Tarves the <hi>2</hi> tuesday: in Moffat and Kirkadie▪ fair of horse, neat, &amp; s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the <hi>18.</hi> Stirling the <hi>20.</hi> Mary Magdalen in Linlithgow▪<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>enw<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en and Pathhead the <hi>22.</hi> in Airth the <hi>24.</hi> S. Jame<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Forfar, Cowper of Fise, Lanerk, Roxburgh, Kinghorn. E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in Murray, and in Musselburgh he <hi>25.</hi> Possinar fair in Inv<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ary; and Lambmas fair in Turreff, both on the last tuesday▪
+<pb facs="tcp:30129:6"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> last thursday of July a fair in Lesly<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and at Whitehern<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ay<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. S. Christina in Corstorphin a fair the <hi>24.</hi> day.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>Xxxj. August begins on Wednesday.</head>
+               <p>
+                  <hi>Sun riseth <hi>41.</hi> min. before <hi>5.</hi> sets <hi>41.</hi> min. past <hi>7.</hi>
+                  </hi>
+               </p>
+               <list>
+                  <item>Full Moon on thursday 2. day; 18 m. past 9. at night.</item>
+                  <item>Last quarter on friday 10 day, 22 m. past 4 morning.</item>
+                  <item>Change on saturday 18. day, 5 m. past 7 morning.</item>
+                  <item>First quarter on saturday 25. day, 12 m. past 4. afternoon.</item>
+               </list>
+               <p>
+                  <hi>The first <hi>5.</hi> dayes fair: thence to the <hi>10.</hi> some very great rain with storm winds: thence to the <hi>17.18.</hi> sea<g ref="char:EOLhyphen"/>sonable: thence to the <hi>22.23.</hi> cloudy, the end good Har<g ref="char:EOLhyphen"/>vest whether.</hi>
+               </p>
+               <p>Reap wheat and rye, cut down your oats, gather garden seeds, sow lettice and other winter beths in the new of the Moon: Use modelate dyet, forbear to sleep presently alter meat, take head of sudden cold after great heat.</p>
+               <q>
+                  <l>As burning heat will thee destroys</l>
+                  <l>So shivering cold will thee annoy,</l>
+                  <l>Let little sleep thee now content:</l>
+                  <l>Purge not, nor bleed, lest thou repent.</l>
+               </q>
+               <p>
+                  <hi>Lambmas day in Atturf three days long and in Melrois, Ennerkiething, S. Andrews, and in Dumbarran the first day. Lawrence fair in Rane the first tuesday, the <hi>2.</hi> tuesday at Jed<g ref="char:EOLhyphen"/>burgh, thursday after in Falkland. Martimas fair the 3. tuesday. S. Lawrence in Selkirk, Auchtermuchty, Forres and Carnt wath the <hi>10.</hi> In Rane two days before Kilmabug, and at the burn of Campsie. Lindy day in Dundie, Bamff, Merns and Vallyfield: Martimas in Innerness, and Mary day the first at Monymusk the <hi>15.</hi> at Rugland the <hi>20.</hi> lasting four day. S. Bar<g ref="char:EOLhyphen"/>tholomew Apostle in Linlithgo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Kinkarn of Neil, Clackma<g ref="char:EOLhyphen"/>nan and Peebles the <hi>24.</hi> S. Zepherinus in Corstorphin the <hi>26.</hi> day <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> fair. Semarevis day in Forres and Keith the <hi>27.</hi> day. S. Johns <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y in S. Johnston the <hi>29.</hi> day. L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nerk a fair the last friday of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>moneth. A fair in Stranraver in the Reinds of Gaboway, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ed St. Johns day; the last friday of August.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:30129:6"/>
+               <head>Xxx. September begins on Saturday.</head>
+               <p>
+                  <hi>Sun riseth <hi>29.</hi> min. before <hi>6.</hi> sets <hi>29.</hi> min. after <hi>6.</hi>
+                  </hi>
+               </p>
+               <list>
+                  <item>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ull Moon on saturday 1 day, 44 m. past 8 afternoon.</item>
+                  <item>Last quarte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on saturday 8. day, 43 m. past 9. afternoon.</item>
+                  <item>Change on Sunday 16. day, 18 m. past 9. in the afternoon.</item>
+                  <item>First quarter on Sunday 23. day, 57. m. past 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> at night.</item>
+                  <item>Full Moon on Sunday 30. day, 44 m. past 8 afternoon.</item>
+               </list>
+               <p>
+                  <hi>The first <hi>6.</hi> dayes wind and rain, thence to the <hi>12.13.</hi> more temperate, from thence to <hi>22.23.</hi> some showrs, from thence to the the end of the moneth fair harvest weather.</hi>
+               </p>
+               <p>Set artichoaks, sow seeds for winter herbs, about the full of the Moon, the weather being dry: sow wheat and rye, kill bees, make verjuyce, sow parships and carrets, and remove tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es every new Moon till February.</p>
+               <q>
+                  <l>Raw fruit, though ripe, may sickness bring,</l>
+                  <l>Untipe much eat, a dangerous thing,</l>
+                  <l>If now a surfeit thou dost take,</l>
+                  <l>When others sleep thou must awake.</l>
+               </q>
+               <p>
+                  <hi>S. Giles in Elgin the first day, Moflat the <hi>2.</hi> Skirlin the <hi>4.</hi> Latter Lady day in Stirling, Dundie, Bamff, Monymt<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>k and Inverury the <hi>8.</hi> in Auchtertueil and S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lane the <hi>11.</hi> Rude fair in Jedburgh and Innerness the <hi>14.</hi> in Forfar a fair the <hi>15.</hi> bol<g ref="char:EOLhyphen"/>dins <hi>8.</hi> days. A fair at Kirkad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, of horse, neat, and sheep &amp;c. the <hi>20.</hi> Matthew Apostle in Linlithgow the <hi>21.</hi> Rude fair in Garil, Jedburgh, Dumferinling, Dumfries and Athelston <hi>24.</hi> at Leven, Langnewton midway betwixt Jedburgh and Melross <hi>27.</hi> S. Michel in Frendraught, Haddington, Lesly, Air, S. Andrews, Crief, Kirkubright, Galashiels, and at the Kirk of Forrig, and at Ranfrew, of horse, neat and sheep, cus stome free for three years, the <hi>29.</hi> S. Jerom in Bamff the last day.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>Xxxi. October begins on Munday.</head>
+               <p>
+                  <hi>Sun riseth 16. min. before 7. sets 16. min. past 5.</hi>
+               </p>
+               <list>
+                  <item>Last quarter on munday 8. day, 37 m. past afternoon.</item>
+                  <item>Change on tuesday 16. day, 2 m. past 11 afternoon.</item>
+                  <item>First quarter on tuesday 23. day, 51 m. past 5 morning.</item>
+                  <item>Full Moon on tuesday 30. day, 49 m. past 10. morning.</item>
+               </list>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:30129:7"/>
+               <p>
+                  <hi>From the first to the <hi>7.</hi> hard wind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, from thence to the <hi>12.13.14.</hi> some rain, thence to the <hi>24.25.</hi> fair, the end of this moneth dark cloudy weather.</hi>
+               </p>
+               <p>Remove young plants and trees in the new of the Moon, abov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the full gather such fruit as you left ungathered the last moneth, cut your rose-trees by once in two years, if you intend to have store of roses.</p>
+               <q>
+                  <l>Warm cloaths must now provided be,</l>
+                  <l>Also warm meats are good for thee.</l>
+                  <l>Have good regard thy feet be dry,</l>
+                  <l>Thou shal<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> avoid much harm thereby.</l>
+               </q>
+               <p>
+                  <hi>The <hi>1, 2, 3.</hi> a fair in Sale Preston, the first Tuesday in Dundle a new fair. S. Francis in Abernethy and Vastyfield the <hi>4.</hi> Dionyse in Peebles, Earlston, Kirkintillech, Aiton, Auch<g ref="char:EOLhyphen"/>termuchti, Ceres in Fise, Killimure and Moffat the <hi>9.</hi> Dalkeith &amp; Tillibol the <hi>10.</hi> at Innerkeithing the <hi>12.</hi> day, Fenduc at Dunning<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the <hi>13.</hi> in Forgondeny the <hi>15.</hi> day, at Musselburgh &amp; Borrowstonness the <hi>16.</hi> with two weekly markers the munday and friday. S. Luke in Lawder, Kinross, Rugland the <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>8.</hi> day. Townyetam on the border the <hi>20.</hi> of horse, neat, sheep, and a weekly market. <hi>S.</hi> Irenoa in Corstor<g ref="char:EOLhyphen"/>phin and at the Kirk of Carlouk the <hi>20.</hi> with a weekly market every wednesday: and at Linton in [weddal, of horse, neat and sheep, and other merchandise, with a weekly market every wednesday for all time coming, of all sorts of goods and gear, the <hi>20.</hi> A fair at new Church of Kilpatrick, of horse, neat, lint, cloath, &amp;c. free of custome for <hi>7.</hi> years, <hi>21.</hi> Mary Salamin in Stirling and Kelso the <hi>22.</hi> A fair at For far and in Linlithgow the <hi>24.</hi> in Kilreny and Stramiglio the <hi>2.5.</hi> Fowls fair in Pasley and Falkirk the <hi>26.</hi> Simon and Jude in Dysert, Falkirk, Cokani, Kirkliston and Hawick the <hi>28.</hi> in Alloway the <hi>29.</hi> The last thursday of this month a fair in Whithorn holding to days.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>Xxx. November begins on Tursday.</head>
+               <p>
+                  <hi>Sun riseth <hi>4.</hi> min. before <hi>8.</hi> sets <hi>4.</hi> min. after <hi>4.</hi>
+                  </hi>
+               </p>
+               <list>
+                  <item>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>st quarter on Wednesday 7. day, 25 m. past noon.</item>
+                  <item>Change on Wednesday 14. day, 5 m. past 11 at night.</item>
+                  <item>First quarter on Wednesday 21 day, 12 m. past 2 afternoon.</item>
+                  <item>Full moon on Thursday 29. day, 46 m. past 1 morning.</item>
+               </list>
+               <pb facs="tcp:30129:7"/>
+               <p>
+                  <hi>From the first in the <hi>8.9.</hi> very cold w<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> weather, from the <hi>10.17.</hi> tough weather, and <hi>21.22.</hi> from with snow, and therest of the moneth misty weather.</hi>
+               </p>
+               <p>In the new of the Moon remove young Trees, and in the Old of the Moon, set Pease and Beens, sow Parsnips and Car<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, make Malt, and salt Martimas Beef.</p>
+               <q>
+                  <l>If Rheumes do now molest thy head,</l>
+                  <l>It is not ill to sweat in bed.</l>
+                  <l>Feed on good meats, if stomach serve,</l>
+                  <l>Else seek for that which doth preserve.</l>
+               </q>
+               <p>
+                  <hi>Hallowday in Edinburgh <hi>8.</hi> days, in Falkland, Dumblane, For<g ref="char:EOLhyphen"/>dice the first day: in Alathy the <hi>2.</hi> in Kilwinning the <hi>3.</hi> at Jedburgh the first tuesday. <hi>S.</hi> Leonard in Lanerk Forres the <hi>6.</hi> Bocklyvie in the Parish of Kippen, of horse, neat, and sheep, and other commodities, and a weekly Market every tuesday the <hi>7, 8.</hi> Martin in Dumbar, Melrois, Martinskirk, Strabogy, Cowper of Fife, Hamil<g ref="char:EOLhyphen"/>ton, Culross, Kilmabug the <hi>11.</hi> S. Clement in Dundie the <hi>13. S.</hi> He<g ref="char:EOLhyphen"/>lens at Grinock the <hi>15.</hi> Margaretmas fair in Dumsermling the <hi>16.</hi> at Bryak and Peterhead the tuesday thereafter: at Barrowstouness the <hi>18.</hi> S. Macharmuch in Tane and Auchtertueil the <hi>22.</hi> Burntiland the <hi>23.</hi> Maiden fair the <hi>24.</hi> Andermas fair in Stradown, and in Frazerburgh the <hi>29.</hi> S. Andrew in S. Johnston, Peebles and Chirn<g ref="char:EOLhyphen"/>fide the <hi>30.</hi> day.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>Xxxi. December begins on Saturday.</head>
+               <p>
+                  <hi>Sun riseth <hi>16.</hi> min. before <hi>9.</hi> sets <hi>16.</hi> min. after <hi>3.</hi>
+                  </hi>
+               </p>
+               <list>
+                  <item>Last quarter on friday 7. day, 10 m. past 4 morning.</item>
+                  <item>Change on friday 14. day, 8 m. past 10 beforenoon.</item>
+                  <item>First quarter on friday 21 day, 23 m. past 1 morning.</item>
+                  <item>Full Moon on friday 28 day, 56. m. post 10 at night.</item>
+               </list>
+               <p>
+                  <hi>This month seems to enter with frost till the <hi>12, 13.</hi> from the <hi>13.</hi> to the <hi>16.</hi> inclining to snow, from the <hi>16.</hi> to the <hi>24.</hi> dark variable, and all the rest of the moneth frost.</hi>
+               </p>
+               <p>This moneth and the next are best to fell great timber in the old of the Moon: uncover the roots of your fruit trees: fallow land for barley: look well to your cattle.</p>
+               <q>
+                  <l>Now cold December is come in,</l>
+                  <l>The poor mans back is cloathed thin:</l>
+                  <l>Then feed and cloath him as you may,</l>
+                  <l>The Lord will it threefold repay.</l>
+               </q>
+               <pb facs="tcp:30129:8"/>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 6. S. Nicolas in Aberdene the <hi>7.</hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>elly fair▪ and Lady day in Wesiweems the <hi>8.</hi> S. Dunstane in Bamff at the Kirk of Dier and Rothemay the <hi>14.</hi> S. Guth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ert in the Grange, within the Sheriffdom of Linlithgow the <hi>17.</hi> S. Tho<g ref="char:EOLhyphen"/>mas in Glasgow the <hi>15.</hi> and Innerness the <hi>20.</hi> S. Johns day in Bamff and Porres, and Levenmouth the <hi>27.</hi> day.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <head>The Dismal or perillous days of the year.</head>
+            <p>MAsters of Astronomy and Physick that these Arts first sound, tell the most perillous and dangerous days in the year: in which if any man or woman be let blood of wound or vein, they shal die within <hi>21.</hi> days following. Or whose falleth into sickness on any of these days, they shall never escape to till they be dead. And whoso taketh any great journey in any of these days to go from home, he shal be in danger to die one he come again. And who so woddeth a wife in any of these dayes, they shall soon be parted, or else they shall live together with much sorrow. And who so beginneth in any of these dayes any great work, it shall never come to good end: and their are the dars following. In Ianuary are eight days, that is to say, the <hi>1.</hi> and <hi>2.4.5.10.11.17.</hi> and <hi>19.</hi> In February three days, the <hi>8.10.</hi> and <hi>17.</hi> In March are <hi>3.</hi> days, the <hi>15.16.</hi> and <hi>21.</hi> In April are two days, the <hi>15.</hi> and <hi>11.</hi> In May are three days, the <hi>7.15.</hi> and <hi>20.</hi> In Iune are two days, the <hi>4.</hi> and <hi>7.</hi> In Iuly are two days, the <hi>15.</hi> and <hi>20.</hi> In August are two days, the <hi>19.</hi> and <hi>20.</hi> In September are two dayes, the <hi>6.</hi> and <hi>7.</hi> In October is on, the <hi>6.</hi> In November are two, the <hi>5.</hi> and <hi>19.</hi> In Decem<g ref="char:EOLhyphen"/>ber are three, the <hi>6.</hi> and <hi>7.</hi> and <hi>11.</hi> and athers say, the <hi>5.</hi> and <hi>16.</hi>
+            </p>
+            <p>And whoso will learn the Canicular or Dog-days, which are days of great danger and perst▪ may know they begin the <hi>19.</hi> day of Iuly, and continue to the <hi>28.</hi> day of August; which season is very perillous to take sickness: and t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s also perillous to take dr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and medecines, or so let blood: But if it be great need, then it must be before the m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>st of the day.</p>
+            <p>A farthing a day is sewin pence a moneth: the quarter of a year, one shilling ten pence half penny farthing &amp; the year, sroon shiltung, and seven pence. A penny a day is two shillings f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pence the moneth: the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uarter of a year seven shillings seven pnce: the year thirty shillings four pence. Farewel.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:30129:8"/>
+            <head>What the Thunder signifieth e<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery Month of the Year.</head>
+            <p>THunder so <hi>January,</hi> signifieth the same year great winds, plentifull of Còrn and Cattle peradventure. Thunder in <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ebruary,</hi> signisieth that same year many rich men shall dye in great sickness. Thunder in <hi>March,</hi> signifieth that same year great winds, plenty of Corn, and debate amongst people. Thunder in <hi>April,</hi> signifieth that same year to be fruitful and mercy, with the death of wicked men. Thunder in <hi>May,</hi> signifieth that year, need, scarceness, and dearth of Corn, and great hunger. Thunder in <hi>June,</hi> signifieth that same year, that woods shall be overthrown with winds, and great raging shall be of Lions and Wolves, and so like of other harmful Beasts. Thunder In <hi>July,</hi> signifieth the same year shall be good Corn, and loss of beasts: that is to say, their strength shall perish. Thunder in <hi>August,</hi> signifieth the same year sorrow, wailing of many, for many shall be sick. Thunder in <hi>September,</hi> signifieth the same year great wind, plency of Corn, and much falling out between man and man. Thunder in <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> signifieth the same year great wind, and scantness of Corn, Frui<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and Trees. Thunder in <hi>November,</hi> signifieth that same year to be fruitful and mercy, and cheapness of Corn. Thunder in <hi>December,</hi> signifieth the same year cheapness of Corn, and Wheat, with peace and accord among the people.</p>
+         </div>
+         <div type="part">
+            <head>The Shepherds Prognostication for the weather: with a brief Chronology of divers Memo<g ref="char:EOLhyphen"/>rable Accidents, these last hundred years.</head>
+            <p>IF Rain-water be drunk or suckt up by the earth sooner then ordinary, it signifieth rain to be at hand. If standing water be <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t any time warmer then it was commonly wont to be, and no Sun<g ref="char:EOLhyphen"/>shine help, it fore-telleth Rain. If any Springs do newly rise or bubble forth, or old Springs flow faster then ordinary, it is a to<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en of much Rain. If Ducks and Drakes do shake and flutter <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wings when they rise, it is a sign of ensuing water. If young
+<pb facs="tcp:30129:9"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>es <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> agai<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ground, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> drops of Rain to follow. If in a clear and starry night it lig<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in the South or South-east, it fore-telleth great store of Wind Rain to come from those par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. If sheep do bleat, play, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wantonly, it is a sign of wet weather. If Swine be seen to<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bottles of hay o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> straw to any place, and hide them, it betoke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rain. When Oxen do lick themselves against the hair, it be<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neth Rain to follow shortly after. If Oxen or Kine feed a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> when it rains, it fore-telleth that the Rain shall continue ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dayes after. If Cattle when they do puff or bellow, and do lo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> up to the sky, it signifieth ensuing Rain. If the heat in Summ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be more hot and violen then it wont to be, it is a token of Rain.<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Dogs guts or entrails <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or rumble in his belly, it is a sign of Ra<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> If Sal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or powdred Meat be more moist then it is ordinary wont<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be, it signifieth Rain. The Sky or Element being red or fiery the morning, fore-sheweth Rain to follow. Doves or Pigeo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> coming later home to their Dove-house in the Evening then ordi<g ref="char:EOLhyphen"/>nary, it is a token of Rain. If Crows or Daws bath themselv<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in winter, or if they cry yeal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> along any shore, more then they a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> commonly wont to do, then will Rain presently follow. T<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> sparkling of a Lamp or Candle, is a manifest sign of ensu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Rain.</p>
+            <p>The falling of Soot down a Chimney more then ordinary, the will follow Rain presently.</p>
+            <p>When Ants or Pismires do often run to nests or homes, it<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> manifest token of wet weather.</p>
+            <p>When Hens flutter their wings in the dust, or they flock tog<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther, seeking to shelter themselves, Rain followeth. When Go<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>men, or such as are troubled with any old aches, do seek th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> joynts to ake, there Rain shortly follows after.</p>
+            <p>And if the M<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on seem dark, greenish, foggy, lowring, or d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>kish, or if it appear the third day before, or the third day after<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> new Moon, it is a token of ensuing Rain. When Flies, Gna<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fleas do bite or sting sorer then they were wont to do, or ho<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> about mens eyes or mouths, or of Beasts, it is an evident token Rain. And if Frogs do croak more then ordinary, it is an appare<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> token of Rain. When Toads go from their holes in the eveni<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it is a token of stormy weather and Rain.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
